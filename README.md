@@ -1,4 +1,4 @@
-# Hidden Lake Games — Data & Analytics
+# 📊 Hidden Lake Games — Data & Analytics
 
 Internal repositories for end-to-end game analytics infrastructure.
 
